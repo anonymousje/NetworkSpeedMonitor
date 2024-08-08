@@ -10,8 +10,8 @@ Installation:
 
   . Clone this repository and run install.sh on your cli.
 
-  `git clone git@github.com:anonymousje/NetworkSpeedMonitor.git
-  sudo bash install.sh`
+  `git clone git@github.com:anonymousje/NetworkSpeedMonitor.git`
+  `sudo bash install.sh`
 
 
 Running:
