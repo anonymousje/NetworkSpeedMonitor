@@ -3,8 +3,8 @@ A small CLI tool to periodically measure your network speed and generate a repor
 
 Prerequisites:
 
-    You need to have speedtest-cli installed on your system. You can install it using your system's package manaager. 
-    pip install speedtest-cli
+You need to have speedtest-cli installed on your system. You can install it using your system's package manaager. 
+pip install speedtest-cli
 
 Installation:
 
