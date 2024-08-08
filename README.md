@@ -16,7 +16,7 @@ Installation:
 
 Running:
 
-`NetworkMonitor`
+`NetworkMonitor.sh`
 
   
 
